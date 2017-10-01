@@ -1,4 +1,8 @@
 function addNumbers (number){
-var number +=1;
+var number = number;
+
+for(number>=10; number++){
+	number += number
+}
 return number;
 }
