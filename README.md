@@ -1,5 +1,5 @@
 # Repository name :javaScriptJourney
-# Purpose : to Save code and also to practise and hone git skills
-# author : Md Farhad Ul Islam
-# date created : 01/10/2018
-# location : Newcastle
+# Purpose : Store up some functions written in JS
+# Author : Md Farhad Ul Islam
+# Date created : 01/10/2017
+# Location : Newcastle, UK
